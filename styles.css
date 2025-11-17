@@ -18,4 +18,6 @@ section{
     justify-content: center;
 }
 
-div
+div{
+   margin-right: 20px;
+}
